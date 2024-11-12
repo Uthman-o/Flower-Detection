@@ -1,0 +1,6 @@
+train: /home/ace/P_research/YoloV11_custom/train
+val: /home/ace/P_research/YoloV11_custom/val
+
+nc: 5
+
+names: ["Daisy", "Dandelion", " Rose", "Sunflower", "Tulip"]
